@@ -274,6 +274,11 @@ export async function createPost(payload: 'NewPostPayload') {
 }
 ```
 
+```code 
+https://compilando-react.herokuapp.com/api/v1/posts
+```
+<a href="https://compilando-react.herokuapp.com/api/v1/posts">link API</a>
+
 
 
 
